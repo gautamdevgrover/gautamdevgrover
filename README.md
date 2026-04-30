@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me  
 
-- 💼 3+ years experience in Linux & Infrastructure  
+- 💼 4+ years experience in Linux & Infrastructure  
 - 🏆 CKA Certified (89%)  
 - ☁️ Working with AWS, Kubernetes, Docker  
 - 🔄 Focused on CI/CD, Automation & GitOps  
