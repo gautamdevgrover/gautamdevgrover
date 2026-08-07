@@ -110,7 +110,7 @@ Over the past few months I've worked on:
 
 - 💼 LinkedIn: https://linkedin.com/in/gautamdevgrover
 - 🌐 Portfolio: https://gautamdevgrover.online
-- 📧 Email: YOUR_EMAIL_HERE
+- 📧 Email: gautamdevgrover@gmail.com
 
 ---
 
